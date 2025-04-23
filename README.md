@@ -1,2 +1,3 @@
 - Use Google colab to run the model
 - Trained model is saved to drive as h5 file
+- Denoised output file is saved to the drive too
